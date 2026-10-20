@@ -10,8 +10,8 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | | |
 |---|---|
-| Servers online | **544** |
-| Servers offline | **22** |
+| Servers online | **542** |
+| Servers offline | **24** |
 | Servers with status messages | **8** |
 | Total servers | 566 (13 bridge, 553 wireguard) |
 | Countries / cities / providers | 50 / 91 / 14 |
@@ -36,7 +36,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | 🇭🇷 Croatia | 2 | 2 | 0 | 1 |
 | 🇨🇾 Cyprus | 2 | 2 | 0 | 1 |
 | 🇨🇿 Czech Republic | 5 | 5 | 0 | 1 |
-| 🇩🇰 Denmark | 7 | 5 | 2 | 1 |
+| 🇩🇰 Denmark | 7 | 3 | 4 | 1 |
 | 🇪🇪 Estonia | 3 | 3 | 0 | 1 |
 | 🇫🇮 Finland | 11 | 10 | 1 | 1 |
 | 🇫🇷 France | 13 | 13 | 0 | 3 |
@@ -101,6 +101,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | Detected (UTC) | Changes |
 |---|---|
+| [2026-10-20 08:38 UTC](changes/2026-10.md#2026-10-20-0838-utc) | 1 added, 1 removed, 2 went offline, 5 attribute changes |
 | [2026-10-15 03:57 UTC](changes/2026-10.md#2026-10-15-0357-utc) | 2 went online |
 | [2026-10-14 08:36 UTC](changes/2026-10.md#2026-10-14-0836-utc) | Initial server list: 566 servers |
 
