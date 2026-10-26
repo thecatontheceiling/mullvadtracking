@@ -23,7 +23,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | Country | Servers | Online | Offline | Cities |
 |---|---:|---:|---:|---:|
-| 🇦🇱 Albania | 4 | 4 | 0 | 1 |
+| 🇦🇱 Albania | 4 | 3 | 1 | 1 |
 | 🇦🇷 Argentina | 2 | 2 | 0 | 1 |
 | 🇦🇺 Australia | 23 | 23 | 0 | 5 |
 | 🇦🇹 Austria | 5 | 5 | 0 | 1 |
@@ -36,7 +36,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | 🇭🇷 Croatia | 2 | 2 | 0 | 1 |
 | 🇨🇾 Cyprus | 2 | 2 | 0 | 1 |
 | 🇨🇿 Czech Republic | 5 | 5 | 0 | 1 |
-| 🇩🇰 Denmark | 7 | 3 | 4 | 1 |
+| 🇩🇰 Denmark | 7 | 5 | 2 | 1 |
 | 🇪🇪 Estonia | 3 | 3 | 0 | 1 |
 | 🇫🇮 Finland | 11 | 10 | 1 | 1 |
 | 🇫🇷 France | 13 | 13 | 0 | 3 |
@@ -48,7 +48,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | 🇮🇪 Ireland | 3 | 3 | 0 | 1 |
 | 🇮🇱 Israel | 3 | 3 | 0 | 1 |
 | 🇮🇹 Italy | 7 | 7 | 0 | 2 |
-| 🇯🇵 Japan | 9 | 9 | 0 | 2 |
+| 🇯🇵 Japan | 9 | 8 | 1 | 2 |
 | 🇲🇾 Malaysia | 2 | 2 | 0 | 1 |
 | 🇲🇽 Mexico | 4 | 4 | 0 | 1 |
 | 🇳🇱 Netherlands | 17 | 13 | 4 | 1 |
@@ -101,6 +101,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | Detected (UTC) | Changes |
 |---|---|
+| [2026-10-26 09:03 UTC](changes/2026-10.md#2026-10-26-0903-utc) | 2 went offline, 2 went online, 9 attribute changes |
 | [2026-10-23 08:37 UTC](changes/2026-10.md#2026-10-23-0837-utc) | 1 went online |
 | [2026-10-22 08:42 UTC](changes/2026-10.md#2026-10-22-0842-utc) | 2 went online |
 | [2026-10-21 08:39 UTC](changes/2026-10.md#2026-10-21-0839-utc) | 3 went offline |
