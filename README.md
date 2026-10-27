@@ -16,14 +16,14 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | Total servers | 566 (13 bridge, 553 wireguard) |
 | Countries / cities / providers | 50 / 91 / 14 |
 | Ownership | 124 owned, 442 rented |
-| DAITA | 126 servers |
+| DAITA | 128 servers |
 | RAM-only | 566 servers |
 
 <details><summary>Servers by country</summary>
 
 | Country | Servers | Online | Offline | Cities |
 |---|---:|---:|---:|---:|
-| 🇦🇱 Albania | 4 | 3 | 1 | 1 |
+| 🇦🇱 Albania | 4 | 4 | 0 | 1 |
 | 🇦🇷 Argentina | 2 | 2 | 0 | 1 |
 | 🇦🇺 Australia | 23 | 23 | 0 | 5 |
 | 🇦🇹 Austria | 5 | 5 | 0 | 1 |
@@ -51,7 +51,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | 🇯🇵 Japan | 9 | 8 | 1 | 2 |
 | 🇲🇾 Malaysia | 2 | 2 | 0 | 1 |
 | 🇲🇽 Mexico | 4 | 4 | 0 | 1 |
-| 🇳🇱 Netherlands | 17 | 13 | 4 | 1 |
+| 🇳🇱 Netherlands | 17 | 12 | 5 | 1 |
 | 🇳🇿 New Zealand | 3 | 3 | 0 | 1 |
 | 🇳🇬 Nigeria | 2 | 2 | 0 | 1 |
 | 🇳🇴 Norway | 10 | 10 | 0 | 2 |
@@ -101,6 +101,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | Detected (UTC) | Changes |
 |---|---|
+| [2026-10-27 09:05 UTC](changes/2026-10.md#2026-10-27-0905-utc) | 1 went offline, 1 went online, 4 attribute changes |
 | [2026-10-26 09:03 UTC](changes/2026-10.md#2026-10-26-0903-utc) | 2 went offline, 2 went online, 9 attribute changes |
 | [2026-10-23 08:37 UTC](changes/2026-10.md#2026-10-23-0837-utc) | 1 went online |
 | [2026-10-22 08:42 UTC](changes/2026-10.md#2026-10-22-0842-utc) | 2 went online |
