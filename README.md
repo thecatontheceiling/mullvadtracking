@@ -101,6 +101,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | Detected (UTC) | Changes |
 |---|---|
+| [2026-10-29 10:05 UTC](changes/2026-10.md#2026-10-29-1005-utc) | 2 attribute changes |
 | [2026-10-28 09:46 UTC](changes/2026-10.md#2026-10-28-0946-utc) | 1 went offline |
 | [2026-10-27 09:05 UTC](changes/2026-10.md#2026-10-27-0905-utc) | 1 went offline, 1 went online, 4 attribute changes |
 | [2026-10-26 09:03 UTC](changes/2026-10.md#2026-10-26-0903-utc) | 2 went offline, 2 went online, 9 attribute changes |
