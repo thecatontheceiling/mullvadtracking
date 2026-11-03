@@ -10,8 +10,8 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | | |
 |---|---|
-| Servers online | **533** |
-| Servers offline | **33** |
+| Servers online | **532** |
+| Servers offline | **34** |
 | Servers with status messages | **8** |
 | Total servers | 566 (13 bridge, 553 wireguard) |
 | Countries / cities / providers | 50 / 91 / 14 |
@@ -51,7 +51,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | 🇯🇵 Japan | 9 | 8 | 1 | 2 |
 | 🇲🇾 Malaysia | 2 | 2 | 0 | 1 |
 | 🇲🇽 Mexico | 4 | 4 | 0 | 1 |
-| 🇳🇱 Netherlands | 17 | 12 | 5 | 1 |
+| 🇳🇱 Netherlands | 17 | 11 | 6 | 1 |
 | 🇳🇿 New Zealand | 3 | 3 | 0 | 1 |
 | 🇳🇬 Nigeria | 2 | 2 | 0 | 1 |
 | 🇳🇴 Norway | 10 | 10 | 0 | 2 |
@@ -101,6 +101,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | Detected (UTC) | Changes |
 |---|---|
+| [2026-11-03 10:57 UTC](changes/2026-11.md#2026-11-03-1057-utc) | 1 went offline |
 | [2026-11-02 11:19 UTC](changes/2026-11.md#2026-11-02-1119-utc) | 2 went offline |
 | [2026-10-31 09:44 UTC](changes/2026-10.md#2026-10-31-0944-utc) | 6 went offline |
 | [2026-10-29 10:05 UTC](changes/2026-10.md#2026-10-29-1005-utc) | 2 attribute changes |
@@ -110,7 +111,6 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | [2026-10-23 08:37 UTC](changes/2026-10.md#2026-10-23-0837-utc) | 1 went online |
 | [2026-10-22 08:42 UTC](changes/2026-10.md#2026-10-22-0842-utc) | 2 went online |
 | [2026-10-21 08:39 UTC](changes/2026-10.md#2026-10-21-0839-utc) | 3 went offline |
-| [2026-10-20 08:38 UTC](changes/2026-10.md#2026-10-20-0838-utc) | 1 added, 1 removed, 2 went offline, 5 attribute changes |
 
 Full history: [2026-11](changes/2026-11.md), [2026-10](changes/2026-10.md)
 
