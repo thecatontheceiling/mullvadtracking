@@ -11,13 +11,13 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | | |
 |---|---|
 | Servers online | **537** |
-| Servers offline | **29** |
+| Servers offline | **26** |
 | Servers with status messages | **8** |
-| Total servers | 566 (13 bridge, 553 wireguard) |
+| Total servers | 563 (13 bridge, 550 wireguard) |
 | Countries / cities / providers | 50 / 91 / 14 |
-| Ownership | 124 owned, 442 rented |
+| Ownership | 124 owned, 439 rented |
 | DAITA | 128 servers |
-| RAM-only | 566 servers |
+| RAM-only | 563 servers |
 
 <details><summary>Servers by country</summary>
 
@@ -40,7 +40,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | 🇪🇪 Estonia | 3 | 3 | 0 | 1 |
 | 🇫🇮 Finland | 11 | 11 | 0 | 1 |
 | 🇫🇷 France | 13 | 13 | 0 | 3 |
-| 🇩🇪 Germany | 28 | 24 | 4 | 3 |
+| 🇩🇪 Germany | 25 | 24 | 1 | 3 |
 | 🇬🇷 Greece | 2 | 2 | 0 | 1 |
 | 🇭🇰 Hong Kong | 6 | 5 | 1 | 1 |
 | 🇭🇺 Hungary | 4 | 4 | 0 | 1 |
@@ -80,8 +80,8 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | Provider | Servers |
 |---|---:|
-| DataPacket | 128 |
 | Tzulo | 127 |
+| DataPacket | 125 |
 | M247 | 98 |
 | 31173 | 73 |
 | HostRoyale | 43 |
@@ -101,6 +101,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | Detected (UTC) | Changes |
 |---|---|
+| [2026-11-06 11:00 UTC](changes/2026-11.md#2026-11-06-1100-utc) | 3 removed |
 | [2026-11-04 11:02 UTC](changes/2026-11.md#2026-11-04-1102-utc) | 5 went online |
 | [2026-11-03 10:57 UTC](changes/2026-11.md#2026-11-03-1057-utc) | 1 went offline |
 | [2026-11-02 11:19 UTC](changes/2026-11.md#2026-11-02-1119-utc) | 2 went offline |
@@ -110,7 +111,6 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | [2026-10-27 09:05 UTC](changes/2026-10.md#2026-10-27-0905-utc) | 1 went offline, 1 went online, 4 attribute changes |
 | [2026-10-26 09:03 UTC](changes/2026-10.md#2026-10-26-0903-utc) | 2 went offline, 2 went online, 9 attribute changes |
 | [2026-10-23 08:37 UTC](changes/2026-10.md#2026-10-23-0837-utc) | 1 went online |
-| [2026-10-22 08:42 UTC](changes/2026-10.md#2026-10-22-0842-utc) | 2 went online |
 
 Full history: [2026-11](changes/2026-11.md), [2026-10](changes/2026-10.md)
 
