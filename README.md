@@ -10,14 +10,14 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | | |
 |---|---|
-| Servers online | **537** |
+| Servers online | **540** |
 | Servers offline | **26** |
 | Servers with status messages | **8** |
-| Total servers | 563 (13 bridge, 550 wireguard) |
+| Total servers | 566 (13 bridge, 553 wireguard) |
 | Countries / cities / providers | 50 / 91 / 14 |
-| Ownership | 124 owned, 439 rented |
+| Ownership | 124 owned, 442 rented |
 | DAITA | 128 servers |
-| RAM-only | 563 servers |
+| RAM-only | 566 servers |
 
 <details><summary>Servers by country</summary>
 
@@ -25,7 +25,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 |---|---:|---:|---:|---:|
 | 🇦🇱 Albania | 4 | 4 | 0 | 1 |
 | 🇦🇷 Argentina | 2 | 2 | 0 | 1 |
-| 🇦🇺 Australia | 23 | 23 | 0 | 5 |
+| 🇦🇺 Australia | 26 | 26 | 0 | 5 |
 | 🇦🇹 Austria | 5 | 5 | 0 | 1 |
 | 🇧🇪 Belgium | 3 | 3 | 0 | 1 |
 | 🇧🇷 Brazil | 7 | 4 | 3 | 2 |
@@ -86,7 +86,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | 31173 | 73 |
 | HostRoyale | 43 |
 | xtom | 39 |
-| hostuniversal | 19 |
+| hostuniversal | 22 |
 | Blix | 12 |
 | Zenlayer | 12 |
 | iRegister | 4 |
@@ -101,6 +101,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | Detected (UTC) | Changes |
 |---|---|
+| [2026-11-07 10:21 UTC](changes/2026-11.md#2026-11-07-1021-utc) | 3 added |
 | [2026-11-06 11:00 UTC](changes/2026-11.md#2026-11-06-1100-utc) | 3 removed |
 | [2026-11-04 11:02 UTC](changes/2026-11.md#2026-11-04-1102-utc) | 5 went online |
 | [2026-11-03 10:57 UTC](changes/2026-11.md#2026-11-03-1057-utc) | 1 went offline |
@@ -110,7 +111,6 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | [2026-10-28 09:46 UTC](changes/2026-10.md#2026-10-28-0946-utc) | 1 went offline |
 | [2026-10-27 09:05 UTC](changes/2026-10.md#2026-10-27-0905-utc) | 1 went offline, 1 went online, 4 attribute changes |
 | [2026-10-26 09:03 UTC](changes/2026-10.md#2026-10-26-0903-utc) | 2 went offline, 2 went online, 9 attribute changes |
-| [2026-10-23 08:37 UTC](changes/2026-10.md#2026-10-23-0837-utc) | 1 went online |
 
 Full history: [2026-11](changes/2026-11.md), [2026-10](changes/2026-10.md)
 
