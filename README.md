@@ -10,14 +10,14 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | | |
 |---|---|
-| Servers online | **540** |
+| Servers online | **544** |
 | Servers offline | **26** |
 | Servers with status messages | **8** |
-| Total servers | 566 (13 bridge, 553 wireguard) |
+| Total servers | 570 (13 bridge, 557 wireguard) |
 | Countries / cities / providers | 50 / 91 / 14 |
-| Ownership | 124 owned, 442 rented |
+| Ownership | 124 owned, 446 rented |
 | DAITA | 128 servers |
-| RAM-only | 566 servers |
+| RAM-only | 570 servers |
 
 <details><summary>Servers by country</summary>
 
@@ -28,7 +28,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | 🇦🇺 Australia | 26 | 26 | 0 | 5 |
 | 🇦🇹 Austria | 5 | 5 | 0 | 1 |
 | 🇧🇪 Belgium | 3 | 3 | 0 | 1 |
-| 🇧🇷 Brazil | 7 | 4 | 3 | 2 |
+| 🇧🇷 Brazil | 8 | 5 | 3 | 2 |
 | 🇧🇬 Bulgaria | 3 | 3 | 0 | 1 |
 | 🇨🇦 Canada | 30 | 30 | 0 | 4 |
 | 🇨🇱 Chile | 2 | 2 | 0 | 1 |
@@ -71,7 +71,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | 🇹🇭 Thailand | 2 | 2 | 0 | 1 |
 | 🇹🇷 Turkey | 2 | 2 | 0 | 1 |
 | 🇬🇧 UK | 23 | 22 | 1 | 3 |
-| 🇺🇸 USA | 216 | 210 | 6 | 21 |
+| 🇺🇸 USA | 219 | 213 | 6 | 21 |
 | 🇺🇦 Ukraine | 2 | 2 | 0 | 1 |
 
 </details>
@@ -82,9 +82,9 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 |---|---:|
 | Tzulo | 127 |
 | DataPacket | 125 |
-| M247 | 98 |
+| M247 | 101 |
 | 31173 | 73 |
-| HostRoyale | 43 |
+| HostRoyale | 44 |
 | xtom | 39 |
 | hostuniversal | 22 |
 | Blix | 12 |
@@ -101,6 +101,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | Detected (UTC) | Changes |
 |---|---|
+| [2026-11-09 11:42 UTC](changes/2026-11.md#2026-11-09-1142-utc) | 4 added |
 | [2026-11-07 10:21 UTC](changes/2026-11.md#2026-11-07-1021-utc) | 3 added |
 | [2026-11-06 11:00 UTC](changes/2026-11.md#2026-11-06-1100-utc) | 3 removed |
 | [2026-11-04 11:02 UTC](changes/2026-11.md#2026-11-04-1102-utc) | 5 went online |
@@ -110,7 +111,6 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | [2026-10-29 10:05 UTC](changes/2026-10.md#2026-10-29-1005-utc) | 2 attribute changes |
 | [2026-10-28 09:46 UTC](changes/2026-10.md#2026-10-28-0946-utc) | 1 went offline |
 | [2026-10-27 09:05 UTC](changes/2026-10.md#2026-10-27-0905-utc) | 1 went offline, 1 went online, 4 attribute changes |
-| [2026-10-26 09:03 UTC](changes/2026-10.md#2026-10-26-0903-utc) | 2 went offline, 2 went online, 9 attribute changes |
 
 Full history: [2026-11](changes/2026-11.md), [2026-10](changes/2026-10.md)
 
