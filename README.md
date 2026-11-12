@@ -10,8 +10,8 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | | |
 |---|---|
-| Servers online | **543** |
-| Servers offline | **27** |
+| Servers online | **541** |
+| Servers offline | **29** |
 | Servers with status messages | **8** |
 | Total servers | 570 (13 bridge, 557 wireguard) |
 | Countries / cities / providers | 50 / 91 / 14 |
@@ -25,7 +25,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 |---|---:|---:|---:|---:|
 | 🇦🇱 Albania | 4 | 4 | 0 | 1 |
 | 🇦🇷 Argentina | 2 | 2 | 0 | 1 |
-| 🇦🇺 Australia | 26 | 24 | 2 | 5 |
+| 🇦🇺 Australia | 26 | 23 | 3 | 5 |
 | 🇦🇹 Austria | 5 | 5 | 0 | 1 |
 | 🇧🇪 Belgium | 3 | 3 | 0 | 1 |
 | 🇧🇷 Brazil | 8 | 6 | 2 | 2 |
@@ -71,7 +71,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | 🇹🇭 Thailand | 2 | 2 | 0 | 1 |
 | 🇹🇷 Turkey | 2 | 2 | 0 | 1 |
 | 🇬🇧 UK | 23 | 22 | 1 | 3 |
-| 🇺🇸 USA | 219 | 213 | 6 | 21 |
+| 🇺🇸 USA | 219 | 212 | 7 | 21 |
 | 🇺🇦 Ukraine | 2 | 2 | 0 | 1 |
 
 </details>
@@ -101,6 +101,7 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 
 | Detected (UTC) | Changes |
 |---|---|
+| [2026-11-12 11:24 UTC](changes/2026-11.md#2026-11-12-1124-utc) | 2 went offline |
 | [2026-11-10 11:19 UTC](changes/2026-11.md#2026-11-10-1119-utc) | 2 went offline, 1 went online, 7 attribute changes |
 | [2026-11-09 11:42 UTC](changes/2026-11.md#2026-11-09-1142-utc) | 4 added |
 | [2026-11-07 10:21 UTC](changes/2026-11.md#2026-11-07-1021-utc) | 3 added |
@@ -110,7 +111,6 @@ You can subscribe to the commit feed at `https://github.com/thecatontheceiling/m
 | [2026-11-02 11:19 UTC](changes/2026-11.md#2026-11-02-1119-utc) | 2 went offline |
 | [2026-10-31 09:44 UTC](changes/2026-10.md#2026-10-31-0944-utc) | 6 went offline |
 | [2026-10-29 10:05 UTC](changes/2026-10.md#2026-10-29-1005-utc) | 2 attribute changes |
-| [2026-10-28 09:46 UTC](changes/2026-10.md#2026-10-28-0946-utc) | 1 went offline |
 
 Full history: [2026-11](changes/2026-11.md), [2026-10](changes/2026-10.md)
 
